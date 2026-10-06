@@ -21,7 +21,6 @@ I am a final-year B.Tech student in **Computer Science & Engineering (Artificial
 I am interested in **Artificial Intelligence, Machine Learning, Data Analytics, Computer Vision, and Software Development**. I enjoy building practical AI applications and continuously improving my technical skills.
 
 - 🎓 B.Tech CSE — Artificial Intelligence & Analytics
-- 📊 CGPA: **8.96 / 10**
 - 💻 Focus: **AI/ML, Computer Vision, Data Analytics**
 - 🟢 Open to: **AI Engineer, Data Analyst, Software Developer and ML opportunities**
 
@@ -100,7 +99,6 @@ A multimodal insurance claim investigation system designed to analyze **images, 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gayatri%20Hene-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-hene-4b7b41346)
-[![X](https://img.shields.io/badge/X-GayatriHene-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gayatrihene8431)
 [![Email](https://img.shields.io/badge/Email-gayatrihene1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gayatrihene1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-GayatriHene-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GayatriHene)
 
