@@ -88,8 +88,6 @@ A multimodal insurance claim investigation system designed to analyze **images, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GayatriHene&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub statistics" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriHene&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
 
 </div>
